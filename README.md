@@ -1,2 +1,6 @@
 # RestaurantManagementSystem
-FrontEnd Consist of HTML & CSS and Backend is PHP
+# FrontEnd - HTML & CSS 
+# Backend - PHP
+# Database - SQL
+
+This was Done as a project in My Software Engineering Course
