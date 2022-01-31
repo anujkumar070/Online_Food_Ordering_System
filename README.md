@@ -1,4 +1,4 @@
-# RestaurantManagementSystem
+# Restaurant Management System
  FrontEnd - HTML & CSS <br>
  Backend - PHP<br>
 Database - SQL<br>
