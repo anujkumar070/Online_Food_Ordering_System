@@ -1,7 +1,7 @@
 # RestaurantManagementSystem
- FrontEnd - HTML & CSS 
- Backend - PHP
-Database - SQL
+ FrontEnd - HTML & CSS <br>
+ Backend - PHP<br>
+Database - SQL<br>
 It is an online food ordering application from any canteen or restaurant.The Project has two modules. One for Customer and other for Employee from Restaurant.
 This was Done as a project in My Software Engineering Course
 
